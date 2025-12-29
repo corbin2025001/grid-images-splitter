@@ -1,0 +1,5 @@
+{
+  "name": "GridSplitter Pro",
+  "description": "A powerful batch image splitter that divides images into configurable grids (e.g., 3x3, 4x5). Supports bulk uploading, instant preview, and one-click ZIP download.",
+  "requestFramePermissions": []
+}
